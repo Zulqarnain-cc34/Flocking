@@ -19,13 +19,11 @@
   <p align="center">
     This is an implemetation of the flocking algorithm on boids.
     <br />
-    <a href="https://github.com/Zulqarnain-cc34/dotfiles"><strong>Explore the docs »</strong></a>
-    
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details >
   <summary>Table of Contents</summary>
   <ol>
     <li>
