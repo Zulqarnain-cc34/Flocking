@@ -61,6 +61,10 @@ The result is
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Alignment
+Takes all the boids in the canvas and calculates the group vector for the boids in the perception radius. Then normalizes the group vector to an average vector. Subtracts the own boids velocity from
+the average boids velocity to get the vector which when added to our velocity will align the boid w.r.t to the flock in the perpection radius. 
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
